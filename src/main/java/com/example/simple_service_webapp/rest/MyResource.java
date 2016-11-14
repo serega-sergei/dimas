@@ -1,4 +1,4 @@
-package com.example.simple_service_webapp;
+package com.example.simple_service_webapp.rest;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
