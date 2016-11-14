@@ -8,7 +8,7 @@ import javax.ws.rs.core.Response.Status;
 
 import com.example.simple_service_webapp.model.ResponseVO;
 
-@Path("/authenticate")
+@Path("/version/v{version}/authenticate")
 public class LoginResource {
 
 	@POST
